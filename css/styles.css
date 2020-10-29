@@ -1,28 +1,18 @@
 body {
   background: #fff;
   color: #222;
+  font-family: arial, sans-serif;
 }
 body html {
-  font-family: arial, sans-serif;
   height: 100%;
   margin: 20px;
   padding: 0;
 }
 
-#btn-grp {
-  height: 88px;
-}
-
-#search-bar {
-  height: 44px;
-}
-
-#banner {
-  height: 233px;
-}
-
-#header {
-  height: 50px;
+a {
+  color: black;
+  font-size: 14px;
+  margin: 10px;
 }
 
 input[type=submit] {
@@ -57,10 +47,20 @@ input[type=text] {
   width: 482px;
 }
 
-a {
-  color: black;
-  font-size: 14px;
-  margin: 10px;
+#btn-grp {
+  height: 88px;
+}
+
+#search-bar {
+  height: 44px;
+}
+
+#banner {
+  height: 233px;
+}
+
+#header {
+  height: 50px;
 }
 
 /*# sourceMappingURL=styles.css.map */
