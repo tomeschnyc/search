@@ -3,10 +3,13 @@ body {
   color: #222;
 }
 body html {
-  font-family: arial, sans-serif;
   height: 100%;
   margin: 20px;
   padding: 0;
+}
+
+td, a, p, .h {
+  font-family: arial, sans-serif;
 }
 
 #btn-grp {
