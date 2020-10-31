@@ -9,10 +9,24 @@ body html {
   padding: 0;
 }
 
-a {
-  color: black;
-  font-size: 14px;
-  margin: 10px;
+td, a, p, .h {
+  font-family: arial, sans-serif;
+}
+
+#btn-grp {
+  height: 88px;
+}
+
+#search-bar {
+  height: 44px;
+}
+
+#banner {
+  height: 233px;
+}
+
+#header {
+  height: 50px;
 }
 
 input[type=submit] {
